@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/janvichoudhary08/prefixSum-Pattern/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/janvichoudhary08/prefixSum-Pattern/tree/master/0136-single-number) |
 | [0932-monotonic-array](https://github.com/janvichoudhary08/prefixSum-Pattern/tree/master/0932-monotonic-array) |
 ## Math
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/janvichoudhary08/prefixSum-Pattern/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/janvichoudhary08/prefixSum-Pattern/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
